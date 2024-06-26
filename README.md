@@ -54,7 +54,7 @@ Currently, two official plugins are available:
 Maquetación de una página web utilizando Vite + React. 
 Dentro de la carpeta components, se encuentran diversas subcarpetas, cada una conteniendo archivos `.jsx` y `.css` que definen la estructura visual y funcional de la página web.
 
-## Estructura de Carpetas y Archivos
+### Estructura de Carpetas y Archivos
 
 Dentro de la carpeta `components`, las subcarpetas se organizan de la siguiente manera:
 
@@ -71,7 +71,7 @@ Cada subcarpeta tiene una estructura consistente:
 - `ComponentName.jsx`: Archivo principal del componente.
 - `ComponentName.css`: Archivo de estilos específico para el componente.
 
-## Integración de Componentes
+### Integración de Componentes
 
 Todos estos componentes se importan y organizan dentro de un contenedor principal (`app-container`) en el archivo `App.jsx`. 
 La estructura resultante se renderiza de manera coherente para crear la maquetación completa de la web.
